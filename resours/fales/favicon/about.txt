@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Ethiopic
+- Font Author: Copyright 2022 The Noto Project Authors (https://github.com/notofonts/ethiopic)
+- Font Source: https://fonts.gstatic.com/s/notosansethiopic/v47/7cHPv50vjIepfJVOZZgcpQ5B9FBTH9KGNfhSTgtoow1KVnIvyBoMSzUMacb-T35OK6DjwmfeaY9u.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
